@@ -116,7 +116,7 @@ Me chamo Matheus, sou estudante de Engenharia de Software na Universidade Catól
 <div style="margin-top: 30px;">
   <h2>🚀 Projetos em Destaque</h2>
 
-  - [**Space Defenders**](https://github.com/MatheusSales2773/space-defenders) 🎮  
+  - [**Jornada Espacial**]([https://github.com/MatheusSales2773/space-defenders](https://github.com/MatheusSales2773/space-journey)) 🎮  
     Jogo desenvolvido em Pygame onde o jogador deve desviar de meteoros e alcançar o destino. Contém barra de progresso, colisão com explosão e lógica de Game Over.
 
   - [**Site_Rico**](https://github.com/MatheusSales2773/Site_Rico) 🌐  
